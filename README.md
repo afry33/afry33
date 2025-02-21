@@ -1,6 +1,9 @@
 # Ayaha Frysinger
+## 🚀 Data Analyst | AI & ML Explorer 👾
 
-`Data Analyst`
+```diff
++ Passionate about turning data into insights and crafting creative solutions!
+- Not just numbers, but stories hidden within data.
 
 
 <!--
