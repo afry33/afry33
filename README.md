@@ -1,18 +1,28 @@
 # Ayaha Frysinger
-## 🚀 Data Analyst | AI & ML Explorer 👾
+**Data Analyst | Developer | Designer** 👾
 
-```diff
-+ Passionate about turning data into insights and crafting creative solutions!
-- Not just numbers, but stories hidden within data.
+## About Me
+Welcome to my GitHub portfolio! I specialize in data analysis, web development, and 3D modeling.
 
+## Projects
 
-<!--
-**afry33/afry33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Runners Data Analysis](https://github.com/yourusername/runners-analysis)
+Analyzed 700K+ entries of race data using Python and SQL.
 
-Here are some ideas to get you started:
+### [Student Grades Analysis](https://github.com/yourusername/student-grades-analysis)
+Explored factors affecting student performance using Python and Tableau.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Programming:** Python, SQL, R
+- **Data Tools:** Tableau, Google Cloud, BigQuery
+- **Web Development:** JavaScript, HTML, CSS
+- **3D & Visualization:** Blender, Data Visualization
+
+## Contact
+📧 Email: your.email@example.com  
+💼 [LinkedIn](https://linkedin.com/in/yourusername)  
+🐙 [GitHub](https://github.com/yourusername)  
+
+---
+© 2025 Ayaha Frysinger
+
