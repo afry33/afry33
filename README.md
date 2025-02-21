@@ -1,29 +1,33 @@
 # Ayaha Frysinger
-**Data Analyst | Developer | Designer** 👾
+**Data Analyst | Developer | Designer** 🎮
 
 ## About Me
-Welcome to my GitHub portfolio! I am a passionate data analyst and developer with experience in data science, web development, and 3D modeling. I am currently pursuing a **Master of Science in Data Science** at **Illinois Institute of Technology** and hold a **Bachelor of Science in Interdisciplinary Studies: Computer Science & Literature** from **University of Central Florida**. I have worked on multiple data projects, focusing on analytics, visualization, and predictive modeling.
+Welcome to my retro-themed GitHub portfolio! I'm a **Data Analyst** and **Developer** with a passion for blending data science, coding, and creative design. Currently, I'm pursuing my **Master of Science in Data Science** at **Illinois Institute of Technology**, after earning my **Bachelor of Science in Interdisciplinary Studies: Computer Science & Literature** from **University of Central Florida**. 🎮💻
 
-## Projects
+I thrive on transforming data into insightful visualizations, building predictive models, and crafting clean code. Here you’ll find my data projects and creations.
+
+## Projects 🕹️
 
 ### [Runners Data Analysis](https://github.com/yourusername/runners-analysis)
-Analyzed 700K+ entries of race data using Python and SQL.
+Analyzed **700K+** entries of race data using Python and SQL. Check out how I broke down the statistics and visualized the patterns in the world of running! 🏃‍♀️🏅
 
 ### [Student Grades Analysis](https://github.com/yourusername/student-grades-analysis)
-Explored factors affecting student performance using Python and Tableau.
+Explored the fascinating connection between **school cafeteria food**, coursework, and grade drops using Python and Tableau. 📊🍔📚
 
-## Skills
+## Skills 🎮
 - **Programming:** Python, SQL, R
 - **Data Tools:** Tableau, Google Cloud, BigQuery
 - **Web Development:** JavaScript, HTML, CSS
 - **3D & Visualization:** Blender, Data Visualization, Excel
 
-## Contact
-📧 Email: afrysinger@hawk.iit.edu 
+## Contact 📱
+📧 Email: afrysinger@hawk.iit.edu  
 💼 [LinkedIn](https://linkedin.com/in/ayahafrysinger)  
 🐙 [GitHub](https://github.com/afry33)  
 
 ---
+
+✨ **Stay retro, stay curious!** ✨  
 © 2025 Ayaha Frysinger
 
 
