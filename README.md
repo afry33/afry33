@@ -25,17 +25,10 @@ Explored the fascinating connection between **school cafeteria food**, coursewor
 💼 [LinkedIn](https://linkedin.com/in/ayahafrysinger)  
 🐙 [GitHub](https://github.com/afry33)  
 
-<div align="center">
-  <a href="mailto:afrysinger@hawk.iit.edu">
-    <button style="background-color:#80c9ff; border:none; border-radius:5px; color:white; padding:10px 20px; font-family:'Press Start 2P', cursive; font-size:14px;">📧 Email Me</button>
-  </a>
-  <a href="https://linkedin.com/in/ayahafrysinger">
-    <button style="background-color:#0077b5; border:none; border-radius:5px; color:white; padding:10px 20px; font-family:'Press Start 2P', cursive; font-size:14px;">💼 LinkedIn</button>
-  </a>
-  <a href="https://github.com/afry33">
-    <button style="background-color:#333; border:none; border-radius:5px; color:white; padding:10px 20px; font-family:'Press Start 2P', cursive; font-size:14px;">🐙 GitHub</button>
-  </a>
-</div>
+
+```python
+print("Hello, World!")
+
 ---
 
  
