@@ -8,10 +8,10 @@ I thrive on transforming data into insightful visualizations, building predictiv
 
 ## Projects 🕹️
 
-### [Runners Data Analysis](https://github.com/yourusername/runners-analysis)
+### [Runners Data Analysis](https://github.com/afry33/runners-analysis)
 Analyzed **700K+** entries of race data using Python and SQL. Check out how I broke down the statistics and visualized the patterns in the world of running! 🏃‍♀️🏅
 
-### [Student Grades Analysis](https://github.com/yourusername/student-grades-analysis)
+### [Student Grades Analysis](https://github.com/afry33/student-grades-analysis)
 Explored the fascinating connection between **school cafeteria food**, coursework, and grade drops using Python and Tableau. 📊🍔📚
 
 ## Skills 🎮
@@ -24,10 +24,6 @@ Explored the fascinating connection between **school cafeteria food**, coursewor
 📧 Email: afrysinger@hawk.iit.edu  
 💼 [LinkedIn](https://linkedin.com/in/ayahafrysinger)  
 🐙 [GitHub](https://github.com/afry33)  
-
-
-```python
-print("Hello, World!")
 
 ---
 
