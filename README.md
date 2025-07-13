@@ -1,5 +1,5 @@
 # Ayaha Frysinger
-**Data Analyst | Developer | Designer** 🎮
+**Frontend Developer | Designer** 🎮
 
 ## About Me
 Welcome to my GitHub portfolio! I'm a **Data Analyst** and **Developer** with a passion for blending data science, coding, and creative design. Currently, I'm pursuing my **Master of Science in Data Science** at **Illinois Institute of Technology**, after earning my **Bachelor of Science in Interdisciplinary Studies: Computer Science & Literature** from **University of Central Florida**. 🎮💻
